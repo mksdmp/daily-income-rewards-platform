@@ -16,15 +16,10 @@ Admins get full control over **funds, users, reports, and system settings**.
 
 > Track earnings, growth, and performance in real-time
 
-### 💰 Income Overview
+### 💰 Overview
 
-![Income 1](screenshots/income-1.png)
-![Income 2](screenshots/income-2.png)
-
-### 📈 Analytics & Growth
-
-![Analytics 1](screenshots/analytics-1.png)
-![Analytics 2](screenshots/analytics-2.png)
+!(screenshots/admin.png)
+!(screenshots/teams.png)
 
 ---
 
