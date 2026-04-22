@@ -18,8 +18,12 @@ Admins get full control over **funds, users, reports, and system settings**.
 
 ### 💰 Overview
 
-!(screenshots/admin.png)
-!(screenshots/teams.png)
+![admin](screenshots/admin.png)
+![teams](screenshots/teams.png)
+![user](screenshots/user.png)
+![rank](screenshots/rank.png)
+![transactions](screenshots/transactions.png)
+![team_dashboard](screenshots/team_dashboard.png)
 
 ---
 
